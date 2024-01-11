@@ -1,0 +1,28 @@
+.div-main{
+    display: flex;
+    margin: 10px;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 120px;
+    height: 50px;
+    align-items: center;
+    margin-left: 20rem;
+}
+.heading{
+    text-align: center;
+}
+
+.reset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.output, .minus,.plus{
+    font-size: 2rem;
+
+}
+.minus,.plus:hover{
+    cursor: pointer;
+}
