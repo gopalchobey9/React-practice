@@ -1,0 +1,23 @@
+.card{
+    height: 500px;
+    width: 200px;
+    margin :10px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+
+}
+.img{
+    height: 150px;
+     width: 170px;
+
+}
+*{
+    padding: 10px;
+}
+.info{
+    color: blue;
+    font-size: 14px;
+    cursor: pointer;
+}
