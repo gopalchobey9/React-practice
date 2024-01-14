@@ -7,7 +7,7 @@ const Filtering = (props) => {
   function categoryHandler(title){
     setCategory(title)
   }
-
+  
   return (
     <div>
         {
