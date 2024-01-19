@@ -49,3 +49,5 @@ export const array= [
       price:"69,999/-",
    },
 ];
+
+//  all the data is temprory can be changed here 
